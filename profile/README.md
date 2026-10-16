@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://github.com/VoidDupe.png" alt="VoidDupe Logo" width="160">
+<img src="https://github.com/DarkDupe.png" alt="DarkDupe Logo" width="160">
 
-# VoidDupe
+# DarkDupe
 
-![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-4800A8?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-1a1a1a?style=for-the-badge&color=222222&labelColor=0a0a0a)
 
 ---
 
 </div>
 
-## About VoidDupe
+## About DarkDupe
 
-VoidDupe is a Minecraft server project currently in development.
+DarkDupe is a Minecraft server project currently in development.
 
 ## Project Status
 
@@ -22,6 +22,6 @@ The server is currently under development. Public links and server information w
 
 <div align="center">
 
-<sub>© VoidDupe • Not affiliated with Mojang Studios.</sub>
+<sub>© DarkDupe • Not affiliated with Mojang Studios.</sub>
 
 </div>
